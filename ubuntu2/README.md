@@ -12,7 +12,7 @@ Get the port that the container is listening on:
 
 ```
 # docker ps
-CONTAINER ID        IMAGE                COMMAND             CREATED             STATUS              PORTS               NAMES
+CONTAINER ID        IMAGE                    COMMAND             CREATED             STATUS              PORTS               NAMES
 63a0ba73bf81        kangseoju/ubuntu2:test   "/bin/bash"         4 seconds ago       Up 3 seconds                            u1
 ```
 
